@@ -13,4 +13,4 @@ ocria17@gmail.com
 
 @biel.znk01
 
-![](https://media1.tenor.com/m/FWllOlQmk78AAAAC/ronaldo-cristiano-ronaldo.gif)
+![..](https://media1.tenor.com/m/FWllOlQmk78AAAAC/ronaldo-cristiano-ronaldo.gif)
