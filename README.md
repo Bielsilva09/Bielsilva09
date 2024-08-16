@@ -1,9 +1,9 @@
 ### boas vindas ao meu perfil ❤
 me chamo gabriel ferreira
 
-estou estudando no alura
+estou estudando no [alura](https://www.com.br)
 
-estou me desenvolvendo no javacript
+estou me desenvolvendo no javascript
 
 utilizo esse espaço para compartilhar meus projetos
 
